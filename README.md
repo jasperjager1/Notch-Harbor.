@@ -6,6 +6,8 @@ A native macOS notch companion with a persistent file shelf, image conversion, a
 
 This is an independent project, inspired by notch utilities. It is unaffiliated with Lo.cafe or the commercial NotchNook product. The implementation and bundled icon are original.
 
+[Download the app for Apple Silicon](https://github.com/jasperjager1/Notch-Harbor./releases/download/v1.8.0/NotchNook.zip) · [Release notes](https://github.com/jasperjager1/Notch-Harbor./releases/tag/v1.8.0)
+
 ## What it does
 
 - Hover directly over the camera notch to reveal a small preview, then click to open.
