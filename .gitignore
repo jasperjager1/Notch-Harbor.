@@ -1,0 +1,10 @@
+.DS_Store
+*.zip
+*.app/
+.build/
+build/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
